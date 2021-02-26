@@ -106,7 +106,14 @@ https://www.cnblogs.com/kekec/archive/2012/11/14/2755924.html
 
 ```
 dqp rsp
+dqs rsp
 dt
 pt
+gu
+ld
+ln
 ```
 
+## TODO
+
+1. 内核调试中，调试用户态程序

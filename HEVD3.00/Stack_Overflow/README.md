@@ -190,11 +190,19 @@ add rsp, 10h                   ; Return to IrpDeviceIoCtlHandler
    .reload /f @"HEVD.sys"
    ```
 
-## ERROR
+## ERROR1
 
 ROP bypass SMEP中，设置CR4 为 0x70678，user code 运行中途会触发SMEP保护（目测）。。
 
 设为0x506f8（原值：0x1506f8）即可
+
+## ERROR2
+
+`uf nt!KiConfigureDynamicProcessor` 找gadget1的过程中，提示 no code found, aborting。 
+
+好在一开始正常反汇编，找到了gadget地址。
+
+后来异常，**未解决**
 
 ## Ref
 
