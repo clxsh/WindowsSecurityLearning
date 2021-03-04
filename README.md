@@ -15,6 +15,13 @@
 + [x] [Win8.1 x64](./HEVD3.00/ArbitraryOverwrite/Win8.1_x64)
 + [x] [Win10 1703 x64](./HEVD3.00/ArbitraryOverwrite/Win10_1703_x64)
 
+### [Integer Overflow](./HEVD3.00/IntegerOverflow)
+
+### [NULL Pointer Dereference](./HEVD3.00/NULLPointerDereference)
+
++ [x] [Win7 SP1 x64](./HEVD3.00/NULLPointerDereference/Win7_SP1_x64) (x)
+
 ## Windows 内核实验
 
 [simple notes](./Windows_内核实验)
+
