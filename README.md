@@ -21,6 +21,10 @@
 
 + [x] [Win7 SP1 x64](./HEVD3.00/NULLPointerDereference/Win7_SP1_x64) (x)
 
+### [Uninitialized Memory Stack](./HEVD3.00/UninitializedMemoryStack)
+
++ [x] [Win7 SP1 x64](./HEVD3.00/UninitializedMemoryStack/Win7_SP1_x64)
+
 ## Windows 内核实验
 
 [simple notes](./Windows_内核实验)
