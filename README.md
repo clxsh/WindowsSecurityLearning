@@ -20,6 +20,7 @@
 ### [NULL Pointer Dereference](./HEVD3.00/NULLPointerDereference)
 
 + [x] [Win7 SP1 x64](./HEVD3.00/NULLPointerDereference/Win7_SP1_x64) (x)
++ [x] [Win7 SP1 x86](./HEVD3.00/NULLPointerDereference/Win7_SP1_x86) 
 
 ### [Uninitialized Memory Stack](./HEVD3.00/UninitializedMemoryStack)
 

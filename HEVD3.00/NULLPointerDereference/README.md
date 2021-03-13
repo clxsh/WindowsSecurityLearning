@@ -12,10 +12,14 @@
 - EMET(Enhanced Mitigation Experience Toolit)简单的分配了NULL page并标记为`NOACCESS`。EMET弃用了，一部分被整合到Windows 10中的Exploit Protection中。
 - 自Windows 8开始，禁止分配前64K 内存。除非启用了NTVDM
 
-## Windows 7 SP1 7601
+## Windows 7 SP1 7601 x64
 
 利用失败，无法分配NULL page
 
+## Windows 7 SP1 x86
+
+可以分配NULL page
+
 ## 参考
 
-1. [abatchy's blog | [Kernel Exploitation\] 6: NULL pointer dereference](https://www.abatchy.com/2018/01/kernel-exploitation-6)
+1. [abatchy's blog | Kernel Exploitation\] 6: NULL pointer dereference](https://www.abatchy.com/2018/01/kernel-exploitation-6)
