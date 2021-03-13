@@ -26,6 +26,10 @@
 
 + [x] [Win7 SP1 x64](./HEVD3.00/UninitializedMemoryStack/Win7_SP1_x64)
 
+### [Non-Paged Pool Overflow](./HEVD3.00/Non-PagedPoolOverflow)
+
++ [x] [Win7 SP1 x86](.\HEVD3.00/Non-PagedPoolOverflow/Windows_7_x86)
+
 ## Windows 内核实验
 
 [simple notes](./Windows_内核实验)
