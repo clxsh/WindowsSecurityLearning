@@ -131,3 +131,6 @@ kd> dt nt!_OBJECT_TYPE 85d01418 -b
 
 Close所有的Event
 
+## 参考
+
+1. [HEVD Exploits – Windows 7 x86 Non-Paged Pool Overflow](https://h0mbre.github.io/HEVD_Pool_Overflow_32bit/#)
