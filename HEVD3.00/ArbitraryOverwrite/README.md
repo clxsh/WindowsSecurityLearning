@@ -274,5 +274,5 @@ CopyMemory((PVOID)0x100200, StealToken, 0x200);
 ## 参考
 
 1. [www漏洞从win7-win10 ThunderJ](https://thunderjie.github.io/2019/08/19/www%E6%BC%8F%E6%B4%9E%E4%BB%8Ewin7-win10/) 
-2. [Part 18: Kernel Exploitation -> RS2 Bitmap Necromancy]([FuzzySecurity | Windows ExploitDev: Part 18](http://fuzzysecurity.com/tutorials/expDev/22.html))
+2. [Part 18: Kernel Exploitation -> RS2 Bitmap Necromancy](http://fuzzysecurity.com/tutorials/expDev/22.html)
 
